@@ -12,7 +12,7 @@
 - ✅ **Recarga en caliente de contratos**: Tu frontend se adapta automáticamente a tu contrato inteligente a medida que lo editas.
 - 🪝 **[Hooks personalizados](https://docs.scaffoldeth.io/hooks/)**: Colección de envoltorios de hooks de React alrededor de [wagmi](https://wagmi.sh/) para simplificar las interacciones con los contratos inteligentes con autocompletado de Typescript.
 - 🧱 [**Componentes**](https://docs.scaffoldeth.io/components/): Colección de componentes web3 comunes para construir rápidamente tu frontend.
-- 🔥 **Billetera Burner y Grifo Local**: Prueba rápidamente tu aplicación con una billetera burner y un grifo local.
+- 🔥 **Billetera Burner y Faucet Local**: Prueba rápidamente tu aplicación con una billetera burner y un faucet local.
 - 🔐 **Integración con proveedores de billeteras**: Conéctate a diferentes proveedores de billeteras e interactúa con la red Ethereum.
 
 ![Pestaña de depuración de contratos](https://github.com/scaffold-eth/scaffold-eth-2/assets/55535804/b237af0c-5027-4849-a5c1-2e31495cccb1)
